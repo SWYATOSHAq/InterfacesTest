@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("oop_interfaces")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+266d2d125c06dfafef818420c4428d5578a2f036")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24577cfbc1ad35fa3361433acfd68fe2168a6f4b")]
 [assembly: System.Reflection.AssemblyProductAttribute("oop_interfaces")]
 [assembly: System.Reflection.AssemblyTitleAttribute("oop_interfaces")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

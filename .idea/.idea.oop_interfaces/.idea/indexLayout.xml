@@ -3,6 +3,8 @@
   <component name="UserContentModel">
     <attachedFolders />
     <explicitIncludes />
-    <explicitExcludes />
+    <explicitExcludes>
+      <Path>oop_interfaces/README.md</Path>
+    </explicitExcludes>
   </component>
 </project>
