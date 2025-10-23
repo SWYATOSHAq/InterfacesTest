@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/user/oop_interfaces/oop_interfaces/oop_interfaces.csproj",
+      "projectUniqueName": "/Users/user/RiderProject/oop_interfaces/oop_interfaces/oop_interfaces.csproj",
       "projectName": "oop_interfaces",
-      "projectPath": "/Users/user/oop_interfaces/oop_interfaces/oop_interfaces.csproj",
+      "projectPath": "/Users/user/RiderProject/oop_interfaces/oop_interfaces/oop_interfaces.csproj",
       "packagesPath": "/Users/user/.nuget/packages/",
-      "outputPath": "/Users/user/oop_interfaces/oop_interfaces/obj/",
+      "outputPath": "/Users/user/RiderProject/oop_interfaces/oop_interfaces/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/user/.nuget/NuGet/NuGet.Config"
